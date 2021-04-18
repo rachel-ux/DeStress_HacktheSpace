@@ -1,0 +1,14 @@
+.title{
+  box-sizing: border-box;
+  width: 100%;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: #fcd4d2;
+  color: #000000;
+  font-size: 56px;
+  padding-top: 210px;
+}

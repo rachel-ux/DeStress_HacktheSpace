@@ -1,0 +1,56 @@
+.quiz-title{
+   text-align:center;
+    font-size:40px;
+    font-family: 'Pacifico',
+    cursive;
+}
+#quiz-main-card{
+  margin: 0 25%;
+  padding: 30px 0;
+}
+
+.container-quiz{
+    font-family: 'Montserrat',
+    sans-serif;
+    background-color: bisque;
+    padding: 40px 80px;
+    margin: 40px 0;
+}
+.question{
+    font-family: 'Montserrat',
+    sans-serif;
+    font-weight: 300;
+    margin-bottom: 10%;
+}
+.questionCount{
+    padding-bottom: 15px;
+}
+#radio-btn-container{
+    display:flex;
+}
+.option-container{
+    display:flex;
+}
+.radioCustomButton{
+    padding-top: 30px;
+}
+.radioCustomLabel{
+    margin:0;
+    padding-left: 20px;
+}
+#result-text-1{
+    font-family: 'Montserrat',
+    sans-serif;
+    font-weight:300;
+    text-align:center;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+#result-text-2{
+    font-family: 'Montserrat',
+    sans-serif;
+    font-weight:300;
+    text-align:center;
+    font-size: 20px;
+    
+}
